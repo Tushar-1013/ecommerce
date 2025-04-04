@@ -1,0 +1,14 @@
+#product {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.holder {
+    height: 500px;
+    width: 300px;
+    display: flex;
+    padding: 10px;
+    background-color: gray;
+}
